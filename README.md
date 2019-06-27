@@ -1,1 +1,3 @@
-# Housing-Price-Project
+# Kaggle competition
+
+## House Prices: Advanced Regression Techniques
